@@ -3,7 +3,7 @@
 ## Summary
 
 This spec describes the exact Selenium WebDriver walkthrough that
-`src/demo.py` performs against https://testingexamples.github.io.
+`src/demo.py` performs against https://testingexamples.github.io/en-001/practice/.
 
 ## Scope
 
@@ -20,11 +20,11 @@ that.
 * This is a walkthrough script, not a test suite. It demonstrates locator
   strategies and form interactions by printing HTML with `print`; it does
   not make assertions.
-* The script targets exactly one page: https://testingexamples.github.io.
+* The script targets exactly one page: https://testingexamples.github.io/en-001/practice/.
 
 ## Detail
 
-Target URL: `https://testingexamples.github.io`
+Target URL: `https://testingexamples.github.io/en-001/practice/`
 
 Locators (verbatim from `src/demo.py`):
 
@@ -63,4 +63,4 @@ real `outerHTML` rather than an error.
 
 ## Sources
 
-* <https://testingexamples.github.io>
+* <https://testingexamples.github.io/en-001/practice/>

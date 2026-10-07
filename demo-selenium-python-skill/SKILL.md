@@ -1,6 +1,6 @@
 ---
 name: demo-selenium-python
-description: Explains and adapts the demo-selenium-python Selenium WebDriver walkthrough (locating elements by id/name/class/link-text/xpath, filling a text input, checking a checkbox/radio, selecting a dropdown option) against https://testingexamples.github.io; invoke when asked to run, explain, extend, or port this demo, or to adapt it to a different site or Selenium version.
+description: Explains and adapts the demo-selenium-python Selenium WebDriver walkthrough (locating elements by id/name/class/link-text/xpath, filling a text input, checking a checkbox/radio, selecting a dropdown option) against https://testingexamples.github.io/en-001/practice/; invoke when asked to run, explain, extend, or port this demo, or to adapt it to a different site or Selenium version.
 ---
 
 This skill covers the `demo-selenium-python` repo: a small Python script
@@ -8,7 +8,7 @@ This skill covers the `demo-selenium-python` repo: a small Python script
 (`By.ID`, `By.NAME`, `By.CLASS_NAME`, `By.LINK_TEXT`, `By.XPATH`) and the
 basic form interactions (typing into a text input, checking a checkbox,
 checking a radio button, selecting a dropdown option) against the public
-demo site https://testingexamples.github.io.
+demo site https://testingexamples.github.io/en-001/practice/.
 
 To run it: install Python and pip, then `pip install selenium` and a
 matching `chromedriver` on your `PATH` (see README.md's Install section),

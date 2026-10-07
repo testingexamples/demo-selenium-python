@@ -27,7 +27,7 @@ from selenium.webdriver.chrome.options import Options
 
 def demo() -> None:
     """Walk through Selenium locator strategies and form interactions
-    against https://testingexamples.github.io."""
+    against https://testingexamples.github.io/en-001/practice/."""
 
     options = Options()
     options.add_argument('--verbose')  # Enable verbose logging.
@@ -42,7 +42,7 @@ def demo() -> None:
 
     try:
         # Navigate to a website
-        driver.get("https://testingexamples.github.io")
+        driver.get("https://testingexamples.github.io/en-001/practice/")
 
         ###
         # Find elements in various ways.
